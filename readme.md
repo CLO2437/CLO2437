@@ -21,6 +21,9 @@ Hi, I am a student at DongyangMirae University.
 | ------------- | ------------- |
 
 
+## More Repositiory
 
-<br />
-<br />
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CLO2437&repo=github-readme-stats)](https://github.com/CLO2437/github-readme-stats)
+
+
+
