@@ -1,6 +1,12 @@
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=100&section=header&text=Welcome!&fontSize=50)
+
+
 Hi, I am a student at DongyangMirae University.
 
 ![image](https://user-images.githubusercontent.com/101855570/207064734-a79eed24-dfda-4165-ac7e-65eb5cb90f9b.png)
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCLO2437&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
+
 
 ***Use Languages***
 
@@ -16,3 +22,5 @@ Hi, I am a student at DongyangMirae University.
 
 | <a href="https://github.com/CLO2437/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CLO2437&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="CLO2437's github stats" /></a> | <a href="https://github.com/CLO2437/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CLO2437&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
